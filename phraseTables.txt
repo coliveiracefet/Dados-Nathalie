@@ -1,0 +1,246 @@
+#Training
+table training1
+"This"	"x-x x-x"	"training"	1	2
+"task is"	"some people"	"training"	1	2
+"very easy"	"study English"	"training"	1	2
+"for me"	"beautiful day"	"training"	1	2
+
+table training2
+"The book"	"x-x x-x"	"training"	1	2
+"is on"	"are cats"	"training"	1	2
+"the table"	"with me"	"training"	1	2
+"behind you"	"pretty girl"	"training"	1	2
+
+table training3
+"I speak"	"x-x x-x"	"training"	1	2
+"both Portuguese"	"drive car"	"training"	1	2
+"and English"	"hello my"	"training"	1	2
+"very well"	"woke up"	"training"	1	2
+
+table training4
+"I play"	"x-x x-x"	"training"	1	2
+"the guitar"	"plants grow"	"training"	1	2
+"at school"	"green salad"	"training"	1	2
+"every week"	"brother with"	"training"	1	2
+
+table training5
+"We like"	"x-x x-x"	"training"	1	2
+"scientific experiments"	"were computers"	"training"	1	2
+"because they"	"why do"	"training"	1	2
+"are important"	"movie star"	"training"	1	2
+
+table training6
+"Video games"	"x-x x-x"	"training"	1	2
+"are awesome"	"the newspaper"	"training"	1	2
+"but I"	"sit down"	"training"	1	2
+"prefer sleeping"	"she lives"	"training"	1	2
+
+table training7
+"My math"	"x-x x-x"	"training"	1	2
+"teacher is"	"shoes that"	"training"	1	2
+"very smart"	"open the"	"training"	1	2
+"and fun"	"many times"	"training"	1	2
+
+table training8
+"I am"	"x-x x-x"	"training"	1	2
+"prepared to"	"paint the"	"training"	1	2
+"start this"	"sisters see"	"training"	1	2
+"language test"	"your name"	"training"	1	2
+
+
+#Datives
+table dative1
+  "I lend" 			"x-x- x-x" 		"dative" 1 2 
+  "Bob pencils"	"blue sky" 		"dative" 1 2    		
+  "every Saturday" 	"East India" 	"dative" 1 2 
+  "at class" 		"tall trees" 	"dative" 1 2 
+
+table dative2
+ "You give" 	"x-x- x-x" 		"dative" 1 2 
+ "Jack hugs" 	"is true" 			"dative" 1 2 
+ "every time" 	"real name" 		"dative" 1 2 
+ "he's sad" 	"this collection" 	"dative" 1 2 
+
+table dative3
+ "I sell" 		"x-x- x-x" 		"dative" 1 2 
+ "Jane rings" 	"run slow" 		"dative" 1 2 
+ "every month" 	"the sea" 		"dative" 1 2 
+ "since 2015" 	"certain facts" "dative" 1 2 
+
+table dative4
+ "I bring" 			"x-x- x-x" 			"dative" 1 2 
+ "Lana breakfast" 	"he hides" 			"dative" 1 2 
+ "every morning" 	"strange person" 	"dative" 1 2 
+ "on bed" 			"front yard" 		"dative" 1 2 
+
+table dative5
+ "You buy" 				"x-x- x-x" 			"dative" 1 2 
+ "Matt books" 			"Eastern temple" 	"dative" 1 2 
+ "every week" 			"curious folk" 		"dative" 1 2 
+ "since kindergarten" 	"dusty pane" 		"dative" 1 2 
+
+table dative6
+ "We send"	  		"x-x- x-x"        "dative"	1 2 
+ "Dave gifts"    	"real name"       "dative"	1 2 
+ "every year"    	"nothing less"    "dative"	1 2 
+ "on Christmas"  	"almost certain"  "dative"	1 2 
+
+table dative7
+ "They teach"            "x-x- x-x"		"dative"	1 2 
+ "Laura new"             "large stones"        "dative"	1 2 
+ "marketing strategies"  "strange collection"  "dative"	1 2 
+ "at work"               "small boys"          "dative"	1 2 
+ 
+table dative8
+ "You show" 		"x-x- x-x" 	"dative" 1 2
+ "Mark pictures" 	"with good" "dative"	1 2 
+ "every Friday" 	"give her" 	"dative" 1 2 
+ "after school" 	"when did" 	"dative" 1 2 
+
+#Noun Phases
+table nounPhrase1
+ "She'll buy" 	"x-x x-x"		"nounPhrase" 1	2
+"a black"		"was before"	"nounPhrase"	1	2
+"mini IPad"		"his name"		"nounPhrase"	1	2
+"next monday"	"drive her"		"nounPhrase"	1	2
+
+table nounPhrase2				
+"I'll get"		"x-x x-x"	"nounPhrase" 1	2
+"a pink"		"going to" 	"nounPhrase" 1	2
+"school bag"	"his car"	"nounPhrase"	1	2
+"for you"		"not be"	"nounPhrase"	1	2
+
+table nounPhrase3				
+"He'll give"	"x-x x-x"		"nounPhrase"	1	2
+"a blue"		"door heavy" 	"nounPhrase"	1	2
+"formal shirt"	"jump to"	"nounPhrase"	1	2
+"to me"		"house which" "nounPhrase"	1	2
+
+table nounPhrase4				
+"They'll take"	"x-x x-x"		"nounPhrase"	1	2
+"a white"		"he saw"		"nounPhrase"	1	2
+"bird to"		"were yellow"	"nounPhrase"	1	2
+"the church"	"must have" 	"nounPhrase"	1	2
+				
+table nounPhrase5
+"You'll bring"	"x-x x-x"	"nounPhrase"	1	2
+"a green"	"fly to"	"nounPhrase"	1	2
+"ball to"		"he looked"	"nounPhrase"	1	2
+"the game"	"and you"	"nounPhrase"	1	2
+				
+table nounPhrase6
+"We'll buy"	"x-x x-x"		"nounPhrase"	1	2
+"a red"		"went to"	"nounPhrase"	1	2
+"cell phone"	"back home"		"nounPhrase"	1	2
+"on Saturday"	"some people"	"nounPhrase"	1	2
+				
+table nounPhrase7
+"She'll make"	       "x-x x-x"		"nounPhrase"	1	2
+"a purple"		"so old"		"nounPhrase"	1	2
+"birthday cake"	"he watched"	"nounPhrase"	1	2
+"next Sunday"	"must have"	"nounPhrase"	1	2
+				
+table nounPhrase8
+"I'll buy"		"x-x x-x"		"nounPhrase"	1	2
+"a brown"	"no clue"		"nounPhrase"	1	2
+"hiking boot"	"things as"	"nounPhrase"	1	2
+"in Peru"		"three dogs"	"nounPhrase"	1	2
+
+#ThirdPerson
+table thirdPerson1
+"I heard"		"x-x x-x"		"thirdPerson"	1	2
+"that Malcom"	"loving them"	"thirdPerson"	1	2
+"wants to"		"swim too"		"thirdPerson"	1	2
+"travel more"	"a raindrop"	"thirdPerson"	1	2
+
+table thirdPerson2				
+"They believe"	"x-x x-x"	"thirdPerson"	1	2
+"that he"		"was seen"	"thirdPerson"	1	2
+"misses his"	"run to"	"thirdPerson"	1	2
+"previous job"	"to bed"	"thirdPerson"	1	2
+
+table thirdPerson3				
+"I think"		"x-x x-x"			"thirdPerson"	1	2
+"that John"		"far away"			"thirdPerson"	1	2
+"hates to"		"have a"			"thirdPerson"	1	2
+"buy clothes"	"blue butterflies"	"thirdPerson"	1	2
+
+table thirdPerson4				
+"I imagine"		"x-x x-x"		"thirdPerson"	1	2
+"that Clara"	"go back"		"thirdPerson"	1	2
+"needs to"		"come from"		"thirdPerson"	1	2
+"be alone"		"the children"	"thirdPerson"	1	2
+
+table thirdPerson5				
+"They consider"	"x-x x-x"		"thirdPerson"	1	2
+"that she"		"hello there"	"thirdPerson"	1	2
+"dances tango"	"work hard"		"thirdPerson"	1	2
+"very well"		"greater goal" 	"thirdPerson"	1	2
+
+table thirdPerson6				
+"We hear"		"x-x x-x"		"thirdPerson"	1	2
+"that he"		"flower to"		"thirdPerson"	1	2
+"plays soccer"	"study French"	"thirdPerson"	1	2
+"very well"		"day three"		"thirdPerson"	1	2
+
+table thirdPerson7				
+"I see"			"x-x x-x"		"thirdPerson"	1	2
+"that Claire"	"fly from"		"thirdPerson"	1	2
+"has many"		"take classes"	"thirdPerson"	1	2
+"good habits"	"the next"		"thirdPerson"	1	2
+
+table thirdPerson8				
+"I notice"	"x-x x-x"		"thirdPerson"	1	2
+"that she"	"city where"	"thirdPerson"	1	2
+"goes home"	"work at"		"thirdPerson"	1	2
+"at night"	"one movie"		"thirdPerson"	1	2
+
+
+#Question
+table question1
+"What dessert"	"x-x x-x"	"question"	1	2
+"are we"		"she is"	"question"	1	2
+"going to"		"big door"	"question"	1	2
+"eat later?" 	"very old?"	"question"	1	2
+
+table question2				
+"What shirt"	"x-x x-x"	"question"	1	2
+"are you"		"he is"		"question"	1	2
+"going to"		"his watch"	"question"	1	2
+"choose today?"	"we swim?"	"question"	1	2
+
+table question3				
+"What recipe"	"x-x x-x"	"question"	1	2
+"are they"		"I am"		"question"	1	2
+"going to"		"the hour"	"question"	1	2
+"try tonight?"	"he had?"	"question"	1	2
+
+table question4				
+"Which game"		"x-x x-x"		"question"	1	2
+"are they"			"she is"		"question"	1	2
+"going to"			"the delay"		"question"	1	2
+"watch tomorrow?"	"as gentle?"	"question"	1	2
+
+table question5				
+"What gift"		"x-x x-x"		"question"	1	2
+"is he"			"you are"		"question"	1	2
+"going to"		"before this" 	"question"	1	2
+"give Anna?"	"black bird?"	"question"	1	2
+
+table question6				
+"Which city"	"x-x x-x"		"question"	1	2
+"is she"		"we are"		"question"	1	2
+"going to"		"young man"		"question"	1	2
+"visit now?"	"his bottles?"	"question"	1	2
+
+table question7				
+"What flowers"	"x-x x-x"		"question"	1	2
+"is she"  "they are"		"question" 1 2
+"going to"		"there were"	"question"	1	2
+"plant here?"	"very long?"	"question"	1	2
+
+table question8				
+"What instrument"	"x-x x-x"		"question"	1	2
+"is he"				"you are"		"question"	1	2
+"going to"			"so long"		"question"	1	2
+"learn now?"		"before leave?"	"question"	1	2
