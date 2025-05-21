@@ -12,7 +12,7 @@ library(readxl)
 library(purrr)
 
 # Carregar os dados
-data <- Dados_Kelly
+data <- Exp2
 
 # Renomear colunas para manter consistência com o script original
 colnames(data) <- c("Participante", "VLT", "Perfil", "Frase", "Tipo_De_Frase", "Escolha", "RT_Alvo", "Ordem")
