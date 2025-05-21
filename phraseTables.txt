@@ -1,0 +1,480 @@
+#Training
+table training1
+"Next week"	"x-x x-x"	"training"	1	2
+"the student"	"blowing in"	"training"	1	2
+"will buy"	"the teacher"	"training"	1	2
+"some books"	"last winter"	"training"	1	2
+
+table training2
+"The cook"	"x-x x-x"	"training"	1	2
+"will make"	"growing in"  "training"	1	2
+"veggie pizza"	"the waiter"	"training"	1	2
+"next Sunday"	"before 2015"	"training"	1	2
+
+table training3
+"The reporter"	"x-x x-x"	"training"	1	2
+"is writing"	"knowing in"	"training"	1	2
+"a novel"	"the presenter"	"training"	1	2
+"this year"	"last year"	"training"	1	2
+
+table training4
+"Peyton Sawyer"	"x-x x-x"	"training"	1	2
+"is happy"	"throwing in"	"training"	1	2
+"and satisfied"	"the editor"	"training"	1	2
+"being single"	"years ago"	"training"	1	2
+
+table training5
+"Brooke Davis"	"x-x x-x"	"training"	1	2
+"isn’t satisfied"	"drowning in"	"training"	1	2
+"and thrilled"	"the musician"	"training"	1	2
+"being manager"	"last month"	"training"	1	2
+
+table training6
+"Haley James"	"x-x x-x"	"training"	1	2
+"has been"	"flying in"	"training"	1	2
+"a teacher"	"the godfather"	"training"	1	2
+"for years"	"in 2012"	"training"	1	2
+
+
+#FirstCondition
+table firstCondition1
+  "Last class" "x-x- x-x"	"firstCondition"	1	2 
+  "the student" "next autumn"	"firstCondition"	1	2    		
+  "⠀⠀ imitaded" "⠀⠀ learn" 	"firstCondition"	1	2 
+  "farm animals" "about chemicals"	"firstCondition"	1	2 
+
+table firstCondition2
+ "Months ago" "x-x- x-x"	"firstCondition"	1	2 
+ "the cook" "by tomorrow"	"firstCondition"	1	2 
+ "⠀⠀ learned" "⠀⠀ bake"	"firstCondition" 1 2 
+ "Italian songs" "cranberry pies"	"firstCondition"	1	2 
+
+table firstCondition3
+"Days ago" "x-x x-x" "firstCondition"	1	2
+"the reporter" "day after" "firstCondition"	1	2
+"⠀⠀ witnessed" "⠀⠀ interview⠀⠀" "firstCondition"	1	2
+"two crimes" "some people" "firstCondition"	1	2
+
+table firstCondition4
+"In 2019" "x-x x-x" "firstCondition"	1	2
+"the writer" "other month" "firstCondition"	1	2
+"⠀⠀ impressed" "⠀⠀ publish" "firstCondition"	1	2
+"some friends" "great novels" "firstCondition"	1	2
+
+table firstCondition5
+"Last night" "x-x x-x" "firstCondition"	1	2
+"the ballerina" "next week" "firstCondition"	1	2
+"⠀⠀ executed" "⠀⠀ dance" "firstCondition"	1	2
+"some moves" "to rockabilly" "firstCondition"	1	2
+
+table firstCondition6
+"Last month" "x-x x-x" "firstCondition"	1	2
+"the mechanic" "next generation" "firstCondition"	1	2
+"⠀⠀ danced" "⠀⠀ fix" "firstCondition"	1	2
+"to rockabilly" "racing cars" "firstCondition"	1	2
+
+table firstCondition7
+"Weeks ago" "x-x x-x" "firstCondition"	1	2
+"the schoolboy" "next summer" "firstCondition"	1	2
+"⠀⠀ dropped" "⠀⠀ design" "firstCondition"	1	2
+"art classes" "two buildings" "firstCondition"	1	2
+
+table firstCondition8
+"Years ago" "x-x x-x" "firstCondition"	1	2
+"the nurse" "next spring" "firstCondition"	1	2
+"⠀⠀ declared" "⠀⠀ treat" "firstCondition"	1	2
+"her earnings" "the patients" "firstCondition"	1	2
+
+#SecondCondition
+table secondCondition1
+"Carefully  ⠀" "x-x x-x" "secondCondition"	1	2
+"the judge" "ashamed of" "secondCondition"	1	2
+"⠀⠀ washed" "⠀⠀ reject" "secondCondition"	1	2
+"his convertible" "the complaint" "secondCondition"	1	2
+
+table secondCondition2
+"⠀⠀ Cautiously" "x-x x-x" "secondCondition"	1	2
+"the gamer" "responsible for" "secondCondition"	1	2
+"⠀⠀ studied" "⠀⠀ play" "secondCondition"	1	2
+"every strategy" "online games" "secondCondition"	1	2
+
+table secondCondition3
+"⠀⠀ Cheerfully" "x-x x-x" "secondCondition"	1	2
+"the traveler" "serious about" "secondCondition"	1	2
+"⠀⠀ baked" "⠀⠀ pack" "secondCondition"	1	2
+"seven cakes" "his suitcases" "secondCondition"	1	2
+
+table secondCondition4
+"⠀⠀ Slowly" "x-x x-x" "secondCondition"	1	2
+"the firefighter" "enthusiastic about" "secondCondition"	1	2
+"⠀⠀ entered" "⠀⠀ burn" "secondCondition"	1	2
+"the house" "his hand" "secondCondition"	1	2
+
+table secondCondition5
+"⠀⠀ Fortunately" "x-x x-x" "secondCondition"	1	2
+"the physician" "disappointed with" "secondCondition"	1	2
+"⠀⠀ earned" "⠀⠀ treat" "secondCondition"	1	2
+"a vacation" "the staff" "secondCondition"	1	2
+
+table secondCondition6
+"⠀⠀ Easily" "x-x x-x" "secondCondition"	1	2
+"the researcher" "silly of" "secondCondition"	1	2
+"⠀⠀ grabbed" "⠀⠀ analyze" "secondCondition"	1	2
+"a sandwich" "toxic material" "secondCondition"	1	2
+
+table secondCondition7
+"⠀⠀ Quickly" "x-x x-x" "secondCondition"	1	2
+"the actress" "suitable for" "secondCondition"	1	2
+"⠀⠀ finished" "⠀⠀ perform" "secondCondition"	1	2
+"the request" "at Montreal" "secondCondition"	1	2
+
+table secondCondition8
+"⠀⠀ Fiercely" "x-x x-x" "secondCondition"	1	2
+"the maid" "accustomed to" "secondCondition"	1	2
+"⠀⠀ murdered" "⠀⠀ clean" "secondCondition"	1	2
+"three spiders" "two houses" "secondCondition"	1	2
+
+#Control
+table control1
+"Last night" "x-x x-x" "control"	1	2
+"the engineer" "by tomorrow" "control"	1	2
+"measured  ⠀" "shop  ⠀" "control"	1	2
+"the bridge" "fiction books" "control"	1	2
+
+table control2
+"Yesterday  ⠀" "x-x x-x" "control"	1	2
+"the lawyer" "next spring" "control"	1	2
+"defended  ⠀" "bake  ⠀" "control"	1	2
+"one teenager" "chocolate cake" "control"	1	2
+
+table control3
+"Months ago" "x-x x-x" "control"	1	2
+"the teacher" "next month" "control"	1	2
+"reviewed  ⠀" "charge  ⠀" "control"	1	2
+"two books" "some batteries" "control"	1	2
+
+table control4
+"Years ago" "x-x x-x" "control"	1	2
+"the lifeguard" "after tomorrow" "control"	1	2
+"saved  ⠀" "complete  ⠀" "control"	1	2
+"two surfers" "a paper" "control"	1	2
+
+table control5
+"In 2017" "x-x x-x" "control"	1	2
+"the soldier" "next week" "control"	1	2
+"protected  ⠀" "follow  ⠀" "control"	1	2
+"the country" "colorful dreams" "control"	1	2
+
+table control6
+"Before 2020" "x-x x-x" "control"	1	2
+"the doctor" "next generation" "control"	1	2
+"treated  ⠀" "enjoy  ⠀" "control"	1	2
+"sad patients" "the movie" "control"	1	2
+
+table control7
+"Last November" "x-x x-x" "control"	1	2
+"the driver" "another month" "control"	1	2
+"chased  ⠀" "imagine  ⠀" "control"	1	2
+"white trucks" "TV shows" "control"	1	2
+
+table control8
+"Weeks ago" "x-x x-x" "control"	1	2
+"the designer" "day after" "control"	1	2
+"demonstrated  ⠀" "believe  ⠀" "control"	1	2
+"an app" "the testimony" "control"	1	2
+
+#Distratores
+#distratorWrongTP
+table distratorWrongTP1
+"Next summer" "x-x x-x" "distratorWrongTP"	1	2
+"the athlete" "check off" "distratorWrongTP"	1	2
+"will  ⠀" "follows  ⠀" "distratorWrongTP"	1	2
+"compete  ⠀" "her brother" "distratorWrongTP"	1	2
+
+table distratorWrongTP2
+"Tomorrow  ⠀" "x-x x-x" "distratorWrongTP"	1	2
+"the babysitter" "pass out" "distratorWrongTP"	1	2
+"will  ⠀" "cooks  ⠀" "distratorWrongTP"	1	2
+"work  ⠀" "good meat" "distratorWrongTP"	1	2
+
+table distratorWrongTP3
+"Next Sunday" "x-x x-x" "distratorWrongTP"	1	2
+"the baker" "carry on" "distratorWrongTP"	1	2
+"will  ⠀" "cleans  ⠀" "distratorWrongTP"	1	2
+"pray  ⠀" "the establishment" "distratorWrongTP"	1	2
+
+table distratorWrongTP4
+"Tomorrow  ⠀" "x-x x-x" "distratorWrongTP"	1	2
+"the barber" "make for" "distratorWrongTP"	1	2
+"will  ⠀" "asks  ⠀" "distratorWrongTP"	1	2
+"close  ⠀" "for peace" "distratorWrongTP"	1	2
+
+table distratorWrongTP5
+"Next year" "x-x x-x" "distratorWrongTP"	1	2
+"the butcher" "let on" "distratorWrongTP"	1	2
+"will  ⠀" "destroys  ⠀" "distratorWrongTP"	1	2
+"travel  ⠀" "the car" "distratorWrongTP"	1	2
+
+table distratorWrongTP6
+"Soon   ⠀" "x-x x-x" "distratorWrongTP"	1	2
+"the cashier" "break into" "distratorWrongTP"	1	2
+"will  ⠀" "forgets  ⠀" "distratorWrongTP"	1	2
+"relax  ⠀" "the job" "distratorWrongTP"	1	2
+
+table distratorWrongTP7
+"Soon  ⠀" "x-x x-x" "distratorWrongTP"	1	2
+"the detective" "bring back" "distratorWrongTP"	1	2
+"will  ⠀" "opens  ⠀" "distratorWrongTP"	1	2
+"complain  ⠀" "a letter" "distratorWrongTP"	1	2
+
+table distratorWrongTP8
+"Next week" "x-x x-x" "distratorWrongTP"	1	2
+"the fisherman" "let down" "distratorWrongTP"	1	2
+"will  ⠀" "visits  ⠀" "distratorWrongTP"	1	2
+"sail  ⠀" "his mom" "distratorWrongTP"	1	2
+
+#distratorWrongPast
+table distratorWrongPast1
+"Maybe  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Martha Smith" "can't stand" "distratorWrongPast"	1	2
+"won’t  ⠀" "blue  ⠀" "distratorWrongPast"	1	2
+"hunt  ⠀" "accepted  ⠀" "distratorWrongPast"	1	2
+
+table distratorWrongPast2
+"Perhaps  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Emma Geller" "can't manage" "distratorWrongPast"	1	2
+"won’t  ⠀" "yellow  ⠀" "distratorWrongPast"	1	2
+"work  ⠀" "acted  ⠀" "distratorWrongPast"	1	2
+
+table distratorWrongPast3
+"Fortunately  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Julia Johnson" "can't appear" "distratorWrongPast"	1	2
+"won’t  ⠀" "pink  ⠀" "distratorWrongPast"	1	2
+"die  ⠀" "baked  ⠀" "distratorWrongPast"	1	2
+
+table distratorWrongPast4
+"Sadly  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Joanne Williams" "can't ask" "distratorWrongPast"	1	2
+"won’t  ⠀" "grey  ⠀" "distratorWrongPast"	1	2
+"recover  ⠀" "behaved  ⠀" "distratorWrongPast"	1	2
+
+table distratorWrongPast5
+"Maybe  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Peter Anderson" "can't offer" "distratorWrongPast"	1	2
+"won’t  ⠀" "red  ⠀" "distratorWrongPast"	1	2
+"wait  ⠀" "compared  ⠀" "distratorWrongPast"	1	2
+
+table distratorWrongPast6
+"Perhaps  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Jonas Miller" "can't plan" "distratorWrongPast"	1	2
+"won’t  ⠀" "green  ⠀" "distratorWrongPast"	1	2
+"laugh  ⠀" "ended  ⠀" "distratorWrongPast"	1	2
+
+table distratorWrongPast7
+"Fortunately  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Serena Jones" "can't wait" "distratorWrongPast"	1	2
+"won’t  ⠀" "orange  ⠀" "distratorWrongPast"	1	2
+"collapse  ⠀" "enjoyed  ⠀" "distratorWrongPast"	1	2
+
+table distratorWrongPast8
+"Sadly  ⠀" "x-x x-x" "distratorWrongPast"	1	2
+"Richard Davis" "can't forget" "distratorWrongPast"	1	2
+"won’t  ⠀" "golden  ⠀" "distratorWrongPast"	1	2
+"listen  ⠀" "packed  ⠀" "distratorWrongPast"	1	2
+
+#resultative
+table resultative1
+"Nathan  ⠀" "x-x x-x" "resultative"	1	2
+"sanded  ⠀" "ball  ⠀" "resultative"	1	2
+"the wood" "live in" "resultative"	1	2
+"smooth  ⠀" "angrily  ⠀" "resultative"	1	2
+
+table resultative2
+"Mike  ⠀" "x-x x-x" "resultative"	1	2
+"pushed  ⠀" "chair  ⠀" "resultative"	1	2
+"the door" "listen to" "resultative"	1	2
+"open  ⠀" "happily  ⠀" "resultative"	1	2
+
+table resultative3
+"Melissa  ⠀" "x-x x-x" "resultative"	1	2
+"pulled  ⠀" "fridge  ⠀" "resultative"	1	2
+"the rope" "play with" "resultative"	1	2
+"straight  ⠀" "silently  ⠀" "resultative"	1	2
+
+table resultative4
+"Laura  ⠀" "x-x x-x" "resultative"	1	2
+"blew  ⠀" "guitar  ⠀" "resultative"	1	2
+"her nails" "study at" "resultative"	1	2
+"dry  ⠀" "gently  ⠀" "resultative"	1	2
+
+table resultative5
+"Paul  ⠀" "x-x x-x" "resultative"	1	2
+"hammered  ⠀" "window  ⠀" "resultative"	1	2
+"the metal" "run to" "resultative"	1	2
+"flat  ⠀" "carefully  ⠀" "resultative"	1	2
+
+table resultative6
+"John  ⠀" "x-x x-x" "resultative"	1	2
+"wiped  ⠀" "grass  ⠀" "resultative"	1	2
+"the table" "give me" "resultative"	1	2
+"clean  ⠀" "furiously  ⠀" "resultative"	1	2
+
+table resultative7
+"Lucy  ⠀" "x-x x-x" "resultative"	1	2
+"pulled  ⠀" "eraser  ⠀" "resultative"	1	2
+"the drawer" "see them" "resultative"	1	2
+"shut  ⠀" "slowly  ⠀" "resultative"	1	2
+
+table resultative8
+"Charlie  ⠀" "x-x x-x" "resultative"	1	2
+"drank  ⠀" "paper  ⠀" "resultative"	1	2
+"the cup" "bring it" "resultative"	1	2
+"empty  ⠀" "quickly  ⠀" "resultative"	1	2
+
+#resultativeUngrammatical
+table resultativeUngrammatical1
+"Leonard  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"crushed  ⠀" "airplane  ⠀" "resultativeUngrammatical"	1	2
+"the paper" "make up" "resultativeUngrammatical"	1	2
+"angrily  ⠀" "tiny  ⠀" "resultativeUngrammatical"	1	2
+
+table resultativeUngrammatical2
+"Ursula  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"trained  ⠀" "pillow  ⠀" "resultativeUngrammatical"	1	2
+"her horse" "show to" "resultativeUngrammatical"	1	2
+"happily  ⠀" "tired  ⠀" "resultativeUngrammatical"	1	2
+
+table resultativeUngrammatical3
+"Tara  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"painted  ⠀" "keyboard  ⠀" "resultativeUngrammatical"	1	2
+"her nail" "melt with" "resultativeUngrammatical"	1	2
+"gently  ⠀" "pretty  ⠀" "resultativeUngrammatical"	1	2
+
+table resultativeUngrammatical4
+"Timothy  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"washed  ⠀" "soda  ⠀" "resultativeUngrammatical"	1	2
+"his hair" "look for" "resultativeUngrammatical"	1	2
+"quickly  ⠀" "shiny  ⠀" "resultativeUngrammatical"	1	2
+
+table resultativeUngrammatical5
+"Josh  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"twisted  ⠀" "radio  ⠀" "resultativeUngrammatical"	1	2
+"the spoon" "put them" "resultativeUngrammatical"	1	2
+"furiously  ⠀" "broken  ⠀" "resultativeUngrammatical"	1	2
+
+table resultativeUngrammatical6
+"Rachel  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"fed  ⠀" "pen  ⠀" "resultativeUngrammatical"	1	2
+"her cat" "tell him" "resultativeUngrammatical"	1	2
+"carefully  ⠀" "sick  ⠀" "resultativeUngrammatical"	1	2
+
+table resultativeUngrammatical7
+"Andrew  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"patted  ⠀" "cake  ⠀" "resultativeUngrammatical"	1	2
+"his dog" "teach us" "resultativeUngrammatical"	1	2
+"slowly  ⠀" "sleepy  ⠀" "resultativeUngrammatical"	1	2
+
+table resultativeUngrammatical8
+"Lucy  ⠀" "x-x x-x" "resultativeUngrammatical"	1	2
+"mopped  ⠀" "chicken  ⠀" "resultativeUngrammatical"	1	2
+"the floor" "clean it" "resultativeUngrammatical"	1	2
+"silently  ⠀" "slippery  ⠀" "resultativeUngrammatical"	1	2
+
+#prepositionalDative
+table prepositionalDative1
+"Kevin  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"donated  ⠀" "computer  ⠀" "prepositionalDative"	1	2
+"the money" "his neighbor" "prepositionalDative"	1	2
+"to them" "a bike" "prepositionalDative"	1	2
+
+table prepositionalDative2
+"Joe  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"submitted  ⠀" "vehicle  ⠀" "prepositionalDative"	1	2
+"an article" "his boss" "prepositionalDative"	1	2
+"to you" "a proposal" "prepositionalDative"	1	2
+
+table prepositionalDative3
+"Mary  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"delivered  ⠀" "notebook  ⠀" "prepositionalDative"	1	2
+"the news" "her friend" "prepositionalDative"	1	2
+"to him" "a pizza" "prepositionalDative"	1	2
+
+table prepositionalDative4
+"Megan  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"distributed  ⠀" "firetruck  ⠀" "prepositionalDative"	1	2
+"the food" "her kids" "prepositionalDative"	1	2
+"to them" "the chocolate" "prepositionalDative"	1	2
+
+table prepositionalDative5
+"Josh  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"explained  ⠀" "keyboard  ⠀" "prepositionalDative"	1	2
+"the situation" "the trainee" "prepositionalDative"	1	2
+"to her" "the problem" "prepositionalDative"	1	2
+
+table prepositionalDative6
+"Mike  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"reported  ⠀" "pillow  ⠀" "prepositionalDative"	1	2
+"the numbers" "the director" "prepositionalDative"	1	2
+"to her" "the accident" "prepositionalDative"	1	2
+
+table prepositionalDative7
+"Tara  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"communicated  ⠀" "headphone  ⠀" "prepositionalDative"	1	2
+"the changes" "the student" "prepositionalDative"	1	2
+"to him" "the incident" "prepositionalDative"	1	2
+
+table prepositionalDative8
+"Tina  ⠀" "x-x x-x" "prepositionalDative"	1	2
+"introduced  ⠀" "blackboard  ⠀" "prepositionalDative"	1	2
+"the plan" "the coach" "prepositionalDative"	1	2
+"to you" "the stadium" "prepositionalDative"	1	2
+
+#dODative
+table dODative1
+"Tim  ⠀" "x-x x-x" "dODative"	1	2
+"showed  ⠀" "chair  ⠀" "dODative"	1	2
+"the student" "the house" "dODative"	1	2
+"the project" "to you" "dODative"	1	2
+
+#dODative
+table dODative2
+"Anthony  ⠀" "x-x x-x" "dODative"	1	2
+"sold  ⠀" "car  ⠀" "dODative"	1	2
+"his colleague" "the car" "dODative"	1	2
+"a game" "to her" "dODative"	1	2
+
+table dODative3
+"Lindsay  ⠀" "x-x x-x" "dODative"	1	2
+"sent  ⠀" "train  ⠀" "dODative"	1	2
+"her brother" "the document" "dODative"	1	2
+"a letter" "to him" "dODative"	1	2
+
+table dODative4
+"Charles  ⠀" "x-x x-x" "dODative"	1	2
+"offered  ⠀" "buses  ⠀" "dODative"	1	2
+"his niece" "the course" "dODative"	1	2
+"a job" "to them" "dODative"	1	2
+
+table dODative5
+"Melissa  ⠀" "x-x x-x" "dODative"	1	2
+"gave  ⠀" "wheel  ⠀" "dODative"	1	2
+"the teacher" "the map" "dODative"	1	2
+"an apple" "to you" "dODative"	1	2
+
+table dODative6
+"Watson  ⠀" "x-x x-x" "dODative"	1	2
+"forwarded  ⠀" "building  ⠀" "dODative"	1	2
+"his son" "the draft" "dODative"	1	2
+"an e-mail" "to her" "dODative"	1	2
+
+table dODative7
+"Cristina  ⠀" "x-x x-x" "dODative"	1	2
+"told  ⠀" "cinema  ⠀" "dODative"	1	2
+"the doctor" "the idea" "dODative"	1	2
+"a story" "to them" "dODative"	1	2
+
+table dODative8
+"The club" "x-x x-x" "dODative"	1	2
+"awarded  ⠀" "miracle  ⠀" "dODative"	1	2
+"the player" "the medal" "dODative"	1	2
+"a prize" "to him" "dODative"	1	2
