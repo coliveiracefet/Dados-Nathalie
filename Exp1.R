@@ -6,7 +6,7 @@ library(readxl)
 library(purrr)
 
 # Load the data
-data <- read_excel("data.xlsx")
+data <- Exp1
 
 data$Escolha <- data$Escolha + 1
 
